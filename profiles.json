@@ -739,6 +739,46 @@
       "duolingo": "",
       "research_or_publication": "5 Q1",
       "work_experience": "No"
+    },
+    {
+      "id": "38",
+      "name": "Fuad",
+      "visa_type": "F1",
+      "interview_date": "26 June 2025",
+      "status": "Approved",
+      "p_university": "University of Florida",
+      "program": "PhD",
+      "subject": "Nuclear Engineering Program",
+      "funding_status": "Full",
+      "intake": "Fall2025",
+      "d_university": "University of Dhaka",
+      "cgpa": "3.41",
+      "gre": "Yes",
+      "ielts": "7.5",
+      "toefl": "",
+      "duolingo": "",
+      "research_or_publication": "5 Q1",
+      "work_experience": "No"
+    },
+    {
+      "id": "39",
+      "name": "Hasan",
+      "visa_type": "F1",
+      "interview_date": "26 June 2025",
+      "status": "Approved",
+      "p_university": "University of Florida",
+      "program": "PhD",
+      "subject": "Nuclear Engineering Program",
+      "funding_status": "Full",
+      "intake": "Fall2025",
+      "d_university": "University of Dhaka",
+      "cgpa": "3.41",
+      "gre": "Yes",
+      "ielts": "7.5",
+      "toefl": "",
+      "duolingo": "",
+      "research_or_publication": "5 Q1",
+      "work_experience": "No"
     }
     
   ]
