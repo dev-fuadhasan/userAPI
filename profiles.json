@@ -819,46 +819,6 @@
       "duolingo": "",
       "research_or_publication": "1 journal, 3 conference papers",
       "work_experience": "Lecturer for 1 years"
-    },
-    {
-      "id": "42",
-      "name": "Fuad",
-      "visa_type": "F1",
-      "interview_date": "July 15, 2025",
-      "status": "Approved",
-      "p_university": "University of North Carolina",
-      "program": "PhD",
-      "subject": "Electrical and Computer Engineering",
-      "funding_status": "Full",
-      "intake": "Fall 2025",
-      "d_university": "BUET",
-      "cgpa": "3.58",
-      "gre": "Yes",
-      "ielts": "",
-      "toefl": "94",
-      "duolingo": "",
-      "research_or_publication": "Undergraduate thesis only",
-      "work_experience": "Trainee Engineer (1.5 months)"
-    },
-    {
-      "id": "43",
-      "name": "Hasan",
-      "visa_type": "F1",
-      "interview_date": "May 8, 2025",
-      "status": "Approved",
-      "p_university": "University of Arkansas",
-      "program": "PhD",
-      "subject": "PhD in Transportation",
-      "funding_status": "Full",
-      "intake": "Fall 2025",
-      "d_university": "RUET",
-      "cgpa": "3.63",
-      "gre": "Yes",
-      "ielts": "7.0",
-      "toefl": "",
-      "duolingo": "",
-      "research_or_publication": "1 journal, 3 conference papers",
-      "work_experience": "Lecturer for 1 years"
     }
   ]
 }
